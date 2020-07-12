@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  GuessTheFlag
+//  GuessTheFlag, project 2 100 days of SwiftUI
 //
 //  Created by Scott Garvey on 7/11/20.
 //  Copyright © 2020 Scott Garvey. All rights reserved.
